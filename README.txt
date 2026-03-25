@@ -40,3 +40,23 @@ Foram realizadas as seguintes análises:
 O projeto mostra, por meio de gráficos e análises, como algumas características das músicas podem influenciar sua popularidade.
 
 Este projeto foi desenvolvido para fins de estudo de Análise de Dados com Python.
+
+## Exemplos de Gráficos
+
+### Danceability vs Popularity
+![Danceability](projeto_analise_musicais/graficos/Danceability.png)
+
+### Energy vs Popularity
+![Energy](projeto_analise_musicais/graficos/Energy.png)
+
+### Valence vs Popularity
+![Valence](projeto_analise_musicais/graficos/Valence.png)
+
+### Tempo vs Popularity
+![Tempo](projeto_analise_musicais/graficos/Tempo.png)
+
+### Histograma da Popularidade
+![Histograma](projeto_analise_musicais/graficos/histograma_popularity.png)
+
+### Boxplot da Popularidade
+![Boxplot](projeto_analise_musicais/graficos/boxplot_popularity.png)
